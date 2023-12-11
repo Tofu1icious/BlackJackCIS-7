@@ -16,9 +16,7 @@ This program allows users to play Blackjack against a computerized dealer. The g
 
 ## Files
 
-- `main.cpp`: The main program file containing the game logic.
-- `functions.cpp`: Contains various functions used in the game, such as input validation and card handling.
-- `functions.h`: Header file for declaring function prototypes.
+- `main.cpp`: The main program file containing the game logic (Only file needed!)
 
 ## Usage
 
