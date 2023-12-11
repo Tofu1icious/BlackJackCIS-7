@@ -22,6 +22,6 @@ This program allows users to play Blackjack against a computerized dealer. The g
 
 ## Usage
 
-1. Clone the repository to your local machine.
-2. Compile the source code using a C++ compiler (e.g., g++, visual studio, replit, etc...).
+1. Clone the repository to your local machine. Or copy and paste main file into your compiler)
+2. Compile the source code using a C++ compiler. 
 3. Run the compiled executable.
