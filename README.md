@@ -2,6 +2,8 @@
 
 Welcome to the CIS 7 Casino Blackjack game! This is a console-based implementation of the classic Blackjack card game written in C++. While it limited to console, it makes use of ASCII art to enhance the expierence.
 
+PUBLISHED: 12/10/23
+AUTHOR: JOSE OROZCO
 ## Overview
 
 This program allows users to play Blackjack against a computerized dealer. The game includes features such as betting, hitting, standing, and doubling down. The player's goal is to beat the dealer by having a hand value closer to 21 without going over, or hitting a total value of 21. Tieing with the dealer, will result in no payout. 
